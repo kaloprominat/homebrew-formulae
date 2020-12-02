@@ -2,7 +2,7 @@ require 'formula'
 
 class BrewPkg < Formula
   homepage 'https://github.com/kaloprominat/brew-pkg'
-  url 'https://github.com/kaloprominat/brew-pkg.git', :tag => 'v0.1.10'
+  url 'https://github.com/kaloprominat/brew-pkg.git', :tag => 'master'
   version '0.1.10'
 
   # This is an .rb that must be executable in order for Homebrew to
